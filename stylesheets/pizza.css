@@ -1,0 +1,44 @@
+.header {
+  width: 100vw;
+  height: 65vh;
+  background: url("pizza.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}
+
+.subHead {
+  text-align: center;
+  background-color: black;
+  padding: 2%;
+  color: yellow;
+  display: block;
+  font-family: "Alfa Slab One", cursive;
+}
+
+.first,
+.second {
+  background-color: black;
+  color: yellow;
+  height: auto;
+  width: 90vw;
+  padding: 2%;
+}
+.last {
+  width: auto;
+}
+.invis {
+  color: black;
+}
+p {
+  color: white;
+}
+
+.price {
+  word-spacing: 4px;
+}
+
+h5 {
+  color: white;
+}

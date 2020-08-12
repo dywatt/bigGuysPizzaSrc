@@ -1,0 +1,15 @@
+.header {
+  width: 100vw;
+  height: 45vh;
+  background: url("ny.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}
+
+.container {
+  background-color: black;
+  color: white;
+  padding: 2%;
+}

@@ -1,0 +1,9 @@
+.header {
+  width: 100vw;
+  height: 45vh;
+  background: url("salad.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}

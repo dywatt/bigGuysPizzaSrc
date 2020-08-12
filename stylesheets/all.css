@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: #006400;
+}
+
+.header {
+  width: 100vw;
+  height: 65vh;
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}
+
+.container,
+.table {
+  background-color: black;
+  color: white;
+}
+i {
+  color: black;
+}
+
+h1,
+h5,
+h6 {
+  font-family: "Alfa Slab One", cursive;
+  text-align: center;
+}
+.navi {
+  color: black;
+  height: 20%;
+  text-align: center;
+}
+h4,
+h1,
+h2 {
+  color: yellow;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+.container {
+  width: 90vw;
+}

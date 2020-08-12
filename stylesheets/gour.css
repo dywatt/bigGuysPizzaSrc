@@ -1,0 +1,24 @@
+.header {
+  width: 100vw;
+  height: 65vh;
+  background: url("gour.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}
+
+.container {
+  background-color: black;
+  padding: 2%;
+}
+
+.spag {
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 220px) {
+  h1 {
+    font-size: 20px;
+  }
+}

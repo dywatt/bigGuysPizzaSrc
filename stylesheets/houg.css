@@ -1,0 +1,19 @@
+.header {
+  width: 100vw;
+  height: 67vh;
+  background: url("houg.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-attachment: fixed; */
+  display: flex;
+}
+
+.container {
+  background-color: black;
+  color: white;
+  padding: 2%;
+}
+
+.first {
+  text-align: center;
+}
